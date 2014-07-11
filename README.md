@@ -1,22 +1,32 @@
 # Friend4Friend
 
-# Workflow
+### Workflow
 
-## 1 Prerequirements
-  Sails 0.10-rc8 ```$ npm install -g sails@beta```
-  Bower ```$ npm install -g bower```
-  Grunt ```$ npm install -g grunt```
 
-## 2 Install dependencies
+  
+##### 1 Prerequirements
+
+  - [Node.JS](http://nodejs.org/)
+  - [Redis](http://redis.io)
+  - [MongoDB](http://mongodb.org)
+  - [Sails](http://sailsjs.org) 0.10-rc8 ```$ npm install -g sails@beta```
+  - [Bower](http://bower.io) ```$ npm install -g bower```
+  - [Grunt](http://gruntjs.com/) ```$ npm install -g grunt```
+  - [Editorconfig plugin](http://editorconfig.org/)
+
+
+##### 2 Install dependencies
   ```$ npm install && bower install ```
 
-## 3 Build assets
+##### 3 Build assets
   ```$ grunt build ``` 
 
-## 4 Run the app
+##### 4 Run the app
   ```$ sails lift ```
 
-# Gitflow
-  Gitflow is the same as we use in [Distribut.io](https://github.com/distributio/Distribut.io/wiki/Gitflow)
+### Gitflow
+  Gitflow is the same as we use for [Distribut.io](https://github.com/distributio/Distribut.io/wiki/Gitflow)
+  
+### Related links
 
-a [Sails](http://sailsjs.org) application
+  - [Trello project board](https://trello.com/b/UIzGrmbu/f4f)
