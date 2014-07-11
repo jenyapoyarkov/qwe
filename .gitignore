@@ -1,0 +1,11 @@
+node_modules/
+.bower-*/
+.tmp/
+www/
+assets/views/
+assets/*.html
+assets/scripts/lib/
+.idea
+*.sublime-workspace
+*.sublime-project
+*.sw*
