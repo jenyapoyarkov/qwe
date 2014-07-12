@@ -24,9 +24,3 @@
 ##### 4 Run the app
   ```$ sails lift ```
 
-### Gitflow
-  Gitflow is the same as we use for [Distribut.io](https://github.com/distributio/Distribut.io/wiki/Gitflow)
-  
-### Related links
-
-  - [Trello project board](https://trello.com/b/UIzGrmbu/f4f)
