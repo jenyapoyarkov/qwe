@@ -1,9 +1,5 @@
-# Friend4Friend
+# Boilerplate - Sails + Angular + Jade + Stylus
 
-### Workflow
-
-
-  
 ##### 1 Prerequirements
 
   - [Node.JS](http://nodejs.org/)
